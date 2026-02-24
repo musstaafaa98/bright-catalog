@@ -1,0 +1,1 @@
+export default function Contact(){return(<div>تواصل معنا</div>);}
